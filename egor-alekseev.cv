@@ -1,0 +1,194 @@
+{
+    "uid": "cv6008766c14aef",
+    "version": 1.2,
+    "cover": {
+        "label": "Anschreiben",
+        "name": "cover",
+        "is_optional": true,
+        "icon": "flaticon-edit-1",
+        "include": false,
+        "label_editable": false,
+        "employer_contact": null,
+        "subject": null,
+        "header": null,
+        "body": null,
+        "footer": null,
+        "items": [],
+        "is_sortable": null
+    },
+    "personal": {
+        "label": "Pers\u00f6nliche Daten",
+        "name": "personal",
+        "icon": "flaticon-user-settings",
+        "forename": "\u0415\u0433\u043e\u0440",
+        "lastname": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432",
+        "email": "alekseev.em@phystech.edu",
+        "title": null,
+        "phone": "+79608149297",
+        "address": null,
+        "website": null,
+        "birthdate": "03.12.2001",
+        "items": [],
+        "is_sortable": null,
+        "is_optional": null,
+        "label_editable": true,
+        "include": true
+    },
+    "photo": {
+        "label": "Bewerbungsfoto",
+        "name": "photo",
+        "cv_uid": "cv6008766c14aef",
+        "icon": "flaticon-photo-camera",
+        "base_path": "\/home\/pd2\/projects\/makecv\/storage\/app\/public\/cvs\/cv6008766c14aef",
+        "image_file": "\/home\/pd2\/projects\/makecv\/storage\/app\/public\/cvs\/cv6008766c14aef\/image",
+        "image_url": "https:\/\/makecvforfree.com\/app\/storage\/cvs\/cv6008766c14aef\/image",
+        "base64": null,
+        "label_editable": false,
+        "items": null,
+        "is_sortable": null,
+        "is_optional": null,
+        "include": true
+    },
+    "jobs": {
+        "label": "Berufserfahrung",
+        "name": "jobs",
+        "is_sortable": true,
+        "icon": "flaticon-line-graph",
+        "items": [
+            {
+                "start": "Sep 15",
+                "end": "Jun 19",
+                "company": "\u043f\u0435\u0440\u0435\u0447\u043d\u0435\u0432\u044b\u0435 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u044b",
+                "location": null,
+                "title": "\u041f\u0440\u0438\u0437\u0435\u0440 \u0438 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0435\u0440\u0435\u0447\u043d\u0435\u0432\u044b\u0445 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434, \u044d\u0442\u0430\u043f\u043e\u0432 \u0412\u0441\u041e\u0428 \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435 \u0438 \u0444\u0438\u0437\u0438\u043a\u0435",
+                "description": "\u043f\u0440\u0438\u0437\u0435\u0440 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u044d\u0442\u0430\u043f\u0430 \u0412\u0441\u041e\u0428 9, 10, 11 \u043a\u043b\u0430\u0441\u0441\u0430 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435\r\n\u043f\u0440\u0438\u0437\u0435\u0440 \u0437\u0430\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u044d\u0442\u0430\u043f\u0430 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u044b \"\u0424\u0438\u0437\u0442\u0435\u0445\" 11 \u043a\u043b\u0430\u0441\u0441\u0430 \u043f\u043e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0435, \u0444\u0438\u0437\u0438\u043a\u0435",
+                "uid": "jobs600880aee5803"
+            },
+            {
+                "start": "Jun 18",
+                "end": "Jul 18",
+                "company": "Educational center \"Sirius\"",
+                "location": "Sochi, Russia",
+                "title": "\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \"\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0432\u044b\u0437\u043e\u0432\u044b\" \u043f\u0440\u043e\u0444\u0438\u043b\u044c \"\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442 \u0438 \u0431\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0435 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u044b\"",
+                "description": "\u044f \u043f\u0440\u043e\u0448\u0435\u043b \u043e\u0442\u0431\u043e\u0440 \u043d\u0430 \u0441\u043c\u0435\u043d\u0443 \"\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0432\u044b\u0437\u043e\u0432\u044b\" \u0432 \u0421\u0438\u0440\u0438\u0443\u0441\u0435 \u0441\u0434\u0435\u043b\u0430\u0432 \u043f\u0440\u043e\u0435\u043a\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438\u043d\u0435\u0440\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438. \u044f \u0441\u0434\u0435\u043b\u0430\u043b \u0440\u043e\u0431\u043e\u0442\u0430 \u043d\u0430 arduino (https:\/\/github.com\/egoraroge\/inertial.navigation-arduino2018-), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e \u0438 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0437\u043c\u0435\u0447\u0430\u043b \u0441\u0432\u043e\u044e \u0442\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u044e \u0447\u0442\u043e\u0431\u044b \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u043f\u043e \u044d\u0442\u043e\u043c\u0443 \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440. \u0412 \u0445\u043e\u0434\u0435 \u0441\u0430\u043c\u043e\u0439 \u0441\u043c\u0435\u043d\u044b \u043c\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043b\u0438 \u043f\u0440\u043e\u0435\u043a\u0442 \u043e\u0442 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u041f\u043e\u043b\u0438\u0442\u0435\u0445\u0430, \u0446\u0435\u043b\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0431\u044b\u043b\u043e \u0431\u044b \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043c\u0430\u043a\u0435\u0442 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u043c\u0435\u0436\u0434\u0443 \u0441\u043e\u0431\u043e\u0439 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439 \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u043c\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0441 \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u044b\u043c \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0441 \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u0435\u0439 \u043f\u043e \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0435 \u0438 \u0438\u043d\u0432\u0430\u043b\u0438\u0434\u043d\u043e\u0433\u043e \u043a\u0440\u0435\u0441\u043b\u0430.",
+                "uid": "jobs60087f743ad8a"
+            }
+        ],
+        "is_optional": null,
+        "label_editable": true,
+        "include": true
+    },
+    "schools": {
+        "label": "Ausbildung",
+        "name": "schools",
+        "is_sortable": true,
+        "icon": "flaticon-presentation-1",
+        "items": [
+            {
+                "title": "\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 Android-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+                "start": "Sep 17",
+                "end": "May 18",
+                "location": null,
+                "name": "IT School Samsung",
+                "description": "\u0438\u0442\u043e\u0433\u043e\u0432\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442: https:\/\/github.com\/egoraroge\/samsung_school\/blob\/main\/app-debug.apk",
+                "uid": "school60088a6cc61d4"
+            },
+            {
+                "title": null,
+                "start": "Sep 08",
+                "end": "Jun 19",
+                "location": "Samara, Russia",
+                "name": "School \u211610",
+                "description": "\u0434\u0438\u043f\u043b\u043e\u043c \u0441 \u043e\u0442\u043b\u0438\u0447\u0438\u0435\u043c",
+                "uid": "school600877abc98c8"
+            },
+            {
+                "title": null,
+                "start": "Sep 16",
+                "end": "Jun 19",
+                "location": null,
+                "name": "\u041c\u0424\u0422\u0418 \u0417\u0424\u0422\u0428",
+                "description": "\u0434\u0438\u043f\u043b\u043e\u043c \u0441 \u043e\u0442\u043b\u0438\u0447\u0438\u0435\u043c",
+                "uid": "school600887f0acd1e"
+            },
+            {
+                "title": null,
+                "start": "Sep 19",
+                "end": "Jun 23",
+                "location": "Dolgoprudny, Moscow Oblast, Russia",
+                "name": "\u041c\u0424\u0422\u0418",
+                "description": "1 \u043a\u0443\u0440\u0441 - \u0424\u0410\u041a\u0418 (\u0424\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u0430\u044d\u0440\u043e\u0444\u0438\u0437\u0438\u043a\u0438 \u0438 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439)\r\n2-... \u043a\u0443\u0440\u0441 - \u0424\u041f\u0424\u042d \u041b\u0424\u0418 (\u0424\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0444\u0438\u0437\u0438\u043a\u0438 \u0438 \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u043a\u0438)\r\n\u0432 \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u0437 \u0442\u0440\u0435\u0445 \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0438\u0445 \u0441\u0435\u043c\u0435\u0441\u0442\u0440\u043e\u0432 \u0441\u0440\u0435\u0434\u043d\u0438\u0439 \u0431\u0430\u043b\u043b \u0431\u043e\u043b\u044c\u0448\u0435 8,5\/10 (GPA = 8.78\/10 \u0438\u043b\u0438 4,87\/5)",
+                "uid": "school6008780f7e031"
+            }
+        ],
+        "is_optional": null,
+        "label_editable": true,
+        "include": true
+    },
+    "skills": {
+        "label": "F\u00e4higkeiten",
+        "name": "skills",
+        "is_sortable": true,
+        "is_optional": false,
+        "icon": "flaticon-customer",
+        "items": [],
+        "label_editable": true,
+        "include": true
+    },
+    "languages": {
+        "label": "Sprachkenntnisse",
+        "name": "languages",
+        "items": [
+            {
+                "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "info": null,
+                "level": "5",
+                "uid": "lang60087b57c4080"
+            },
+            {
+                "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+                "info": null,
+                "level": "4",
+                "uid": "lang60087b636fef3"
+            }
+        ],
+        "is_sortable": true,
+        "is_optional": false,
+        "icon": "flaticon-comment",
+        "label_editable": true,
+        "include": true
+    },
+    "certificates": {
+        "label": "Zertifikate",
+        "name": "certificates",
+        "is_sortable": true,
+        "is_optional": true,
+        "icon": "flaticon-medal",
+        "items": [],
+        "label_editable": true,
+        "include": true
+    },
+    "profile": {
+        "label": "Profil",
+        "name": "profile",
+        "is_optional": true,
+        "icon": "flaticon-profile-1",
+        "text": null,
+        "items": [],
+        "is_sortable": null,
+        "label_editable": true,
+        "include": true
+    },
+    "interests": {
+        "label": "Interessen",
+        "name": "interests",
+        "is_sortable": true,
+        "is_optional": true,
+        "icon": "flaticon-rocket",
+        "items": [],
+        "label_editable": true,
+        "include": true
+    },
+    "base_path": "\/home\/pd2\/projects\/makecv\/storage\/app\/public\/cvs\/cv6008766c14aef",
+    "base_path_relative": "public\/cvs\/cv6008766c14aef"
+}
